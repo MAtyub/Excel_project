@@ -5,3 +5,4 @@
 ___Functions used___:
 - Sum, Min, Max, Avg and Median
 - Sumif
+- Condtional formating
