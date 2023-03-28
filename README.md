@@ -6,3 +6,10 @@ ___Functions used___:
 - Sum, Min, Max, Avg and Median
 - Sumif
 - Conditional formatting
+____
+
+### Excel_project file have the following functions:
+
+- Piviot table sales dashboard
+- Conditional formatting
+- VLOOKUP & XLOOKUP 
